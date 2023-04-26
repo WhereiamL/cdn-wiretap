@@ -4,8 +4,8 @@
 ## Installation
 - Download The [Latest Release](https://pages.github.com/).
 - Drag and drop resource into your server files.
-- Add the inventory image to your inventory icons folder.
-- Add this to ox_inventory > data > items.lua
+- Add the inventory [images](https://github.com/LuaLogic/cdn-wiretap/tree/main/install/imgs) to your inventory icons folder.
+- Add the code from [here](https://github.com/LuaLogic/cdn-wiretap/blob/main/install/inv/ox.txt) to ox_inventory > data > items.lua
 
 ## Dependencies
 - [pma-voice](https://github.com/AvarianKnight/pma-voice)
