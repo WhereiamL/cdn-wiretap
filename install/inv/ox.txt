@@ -1,0 +1,19 @@
+['radiowiretap'] = {
+	label = 'Radio Wire Tap',
+	weight = 1500,
+	stack = false,
+	description = 'Used to listen into conversations on radios in a certain radius.',
+	client = {
+		export = 'cdn-wiretap.tapRadio'
+	}
+},
+
+['phonewiretap'] = {
+	label = 'Phone Wire Tap',
+	weight = 1500,
+	stack = false,
+	description = 'Used to listen into conversations on phones in a certain radius.',
+	client = {
+		export = 'cdn-wiretap.tapPhone'
+	}
+},

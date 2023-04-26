@@ -1,0 +1,9 @@
+Thank you for downloading my script!
+
+Installation:
+
+- Drag the 2 .png files from the "imgs" folder into ox_inventory/web/images.
+- Copy the text from the ox.txt file in the "item" folder and paste it into ox_inventory/data/items.lua
+
+If you need more support join the discord and ask for help in the support channels.
+Discord: https://discord.gg/lualogic
