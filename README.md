@@ -17,4 +17,4 @@
     <a href="https://discord.gg/invite/v9YsCZKq23">
       <img alt="Support" src="https://cdn.discordapp.com/attachments/1081055971897516093/1081081761389359245/Untitled.png" />
     </a>
-  </p>"# cdn-wiretap" 
+  </p>
