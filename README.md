@@ -10,7 +10,7 @@
 ## Dependencies
 - [pma-voice](https://github.com/AvarianKnight/pma-voice)
 - [ox_lib](https://github.com/overextended/ox_lib)
-- [ESX Legacy (not tested on other version)](https://github.com/esx-framework/esx_core/)
+- [ESX Legacy (not tested on other versions)](https://github.com/esx-framework/esx_core/)
 
 ## Support
 **Join the discord for support!**
